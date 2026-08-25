@@ -1,0 +1,13 @@
+# Default behavior
+*.ico binary
+
+*.html linguist-vendored
+
+*.htm linguist-vendored
+dist/* linguist-vendored
+
+*.jpg binary
+src/** linguist-detectable
+*.map linguist-generated  
+vendor/* linguist-vendored
+*.yml linguist-detectable=false
